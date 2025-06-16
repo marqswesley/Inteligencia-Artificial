@@ -35,15 +35,16 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Pergunta 3",
+        enunciado: "Pergunta: Qual dos álbuns de 2Pac, lançado durante sua vida, é amplamente considerado um marco em sua carreira, apresentando sucessos como I Aint Mad at Cha?",
         alternativas: [
             {
-            texto: "Trazer dignidade e expandir a visibilidade cultural  afro-americana.",
-            afirmacao: "O 2PAC foi fundamental para a cultura afro-americana. "
+            texto: "Me Against the World",
+            afirmacao: "All Eyez on Me, lançado em 1996, não apenas marcou a história do hip-hop como o primeiro álbum duplo do gênero, mas também se tornou um dos trabalhos mais vendidos de 2Pac, solidificando seu legado como um dos maiores ícones do rap.
+"
             },
             {
-            texto: "Alternativa2",
-            afirmacao: "afirmacao1"
+            texto: "All Eyez on Me.",
+            afirmacao:Com sucessos estrondosos como "California Love" e "I Ain't Mad at Cha", All Eyez on Me é amplamente reconhecido como um divisor de águas na carreira de 2Pac, destacando sua versatilidade lírica e seu impacto duradouro na cultura musical
             },
         ]
     },
@@ -54,7 +55,8 @@ const perguntas = [
 
 let atual = 0;
 let perguntaAtual;
-let historiaFinal = "";//funcao que mostrará cada pergunta até que apareça encerre a lista e mostrará o resumo da I.A.
+let historiaFinal = "";
+//funcao que mostrará cada pergunta até que apareça encerre a lista e mostrará o resumo da I.A.
 
 function mostraPergunta(){
     if (atual >= perguntas.length){
