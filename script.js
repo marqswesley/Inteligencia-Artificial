@@ -9,28 +9,28 @@ const textoResultado = document.querySelector(".texto-resultado");
 //com os atributos texto e afirmação
 const perguntas = [
     {
-        enunciado: "Qual a importância do 2PAC na cultura de plantações e ervas medicinais indigenas?",
+        enunciado: "Em algumas culturas africanas tradicionais, qual a principal razão para o uso ritualístico de certas plantas com propriedades psicoativas?",
         alternativas: [
             {
-            texto: "Trazer dignidade e expandir a visibilidade cultural  afro-americana.",
-            afirmacao: "O 2PAC foi fundamental para a cultura afro-americana. "
+            texto: "a) Conexão espiritual e comunicação com ancestrais.",
+            afirmacao: "Historicamente, muitas comunidades africanas utilizavam plantas em rituais para estabelecer uma ponte entre o mundo físico e o espiritual, buscando orientação e sabedoria de seus antepassados, o que não se confunde com o uso recreativo de drogas."
             },
             {
-            texto: "Alternativa2",
-            afirmacao: "afirmacao1"
+            texto: "Para fins de cura e tratamento de doenças físicas e mentais.",
+            afirmacao: "O conhecimento ancestral sobre ervas medicinais na África é vasto e foi transmitido por gerações, com foco na cura e bem-estar, reconhecendo as propriedades terapêuticas de certas plantas para tratar diversas enfermidades, o que é distinto do uso de drogas."
             },
         ]
     },
     {
-        enunciado: "Pergunta 2",
+        enunciado: "Qual o papel das ervas medicinais na prática da medicina tradicional africana em contraste com o uso de substâncias recreativas?",
         alternativas: [
             {
-            texto: "Trazer dignidade e expandir a visibilidade cultural  afro-americana.",
-            afirmacao: "O 2PAC foi fundamental para a cultura afro-americana. "
+            texto: "As ervas são utilizadas de forma ritualística e com propósito de cura específica, sob orientação de curandeiros.",
+            afirmacao: " Na medicina tradicional africana, o uso de ervas é altamente regulamentado e feito por especialistas (curandeiros, xamãs), que prescrevem doses e rituais específicos para o tratamento de doenças, enfatizando a finalidade terapêutica e não o uso de drogas"
             },
             {
-            texto: "Alternativa2",
-            afirmacao: "afirmacao1"
+            texto: "O conhecimento sobre as ervas é transmitido oralmente e faz parte de um sistema complexo de saúde e bem-estar.",
+            afirmacao: " A sabedoria sobre ervas medicinais é um pilar da cultura africana, passada de geração em geração, e integra um sistema holístico que considera a saúde física, mental e espiritual, diferenciando-se do consumo recreativo ou abusivo de substâncias."
             },
         ]
     },
