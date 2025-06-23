@@ -39,12 +39,13 @@ const perguntas = [
         alternativas: [
             {
             texto: "Me Against the World",
-            afirmacao: "All Eyez on Me, lançado em 1996, não apenas marcou a história do hip-hop como o primeiro álbum duplo do gênero, mas também se tornou um dos trabalhos mais vendidos de 2Pac, solidificando seu legado como um dos maiores ícones do rap.
-"
+            afirmacao: "All Eyez on Me, lançado em 1996, não apenas marcou a história do hip-hop como o primeiro álbum duplo do gênero, mas também se tornou um dos trabalhos mais vendidos de 2Pac, solidificando seu legado como um dos maiores ícones do rap."
+
+            
             },
             {
             texto: "All Eyez on Me.",
-            afirmacao:Com sucessos estrondosos como "California Love" e "I Ain't Mad at Cha", All Eyez on Me é amplamente reconhecido como um divisor de águas na carreira de 2Pac, destacando sua versatilidade lírica e seu impacto duradouro na cultura musical
+            afirmacao:"Com sucessos estrondosos como California Love e I Ain t Mad at Cha, All Eyez on Me é amplamente reconhecido como um divisor de águas na carreira de 2Pac, destacando sua versatilidade lírica e seu impacto duradouro na cultura musical"
             },
         ]
     },
