@@ -6,7 +6,7 @@ const caixaAlternativas = document.querySelector(".caixa-alternativas");
 const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 //lista de perguntas com os objetos(itens) e seus atributos:enunciado, e lista de alternativas
-//com os atributos texto e afirmação
+//com os atributos texto e afirmação.
 const perguntas = [
     {
         enunciado: "Em algumas culturas africanas tradicionais, qual a principal razão para o uso ritualístico de certas plantas com propriedades psicoativas?",
